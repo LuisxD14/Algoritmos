@@ -11,3 +11,11 @@ cd ~/Algoritmos
 g++ main.cpp manejoArchivo.cpp reporte.cpp crearBuscarId.cpp operacionesArchivo.cpp -o pan
 ./pan
 ```
+
+# Requerimientos Windows
+- GCC 14 o superior
+- Agregar GCC al PATH
+- Seguir los pasos para ejecutar
+# Requerimientos Linux
+- GCC 14 o superior
+- Seguir los pasos para ejecutar
