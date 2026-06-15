@@ -1,4 +1,6 @@
 # Algoritmos
+- El archivo inventario.csv contiene algunos productos agregados
+
 
 Para ejecutar el codigo se debe:
 ### 1. Clonar el repositorio
