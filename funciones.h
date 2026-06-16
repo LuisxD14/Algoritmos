@@ -39,4 +39,8 @@ void cambio(vector<Producto>& inv);
 
 // Funcion reporte.cpp
 void reporte(const vector<Producto>& inv);
+
+// Funciones entradaSalidaP
+void entrada(vector<Producto>& inv);
+void salida(vector<Producto>& inv);
 #endif

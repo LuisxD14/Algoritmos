@@ -1,7 +1,45 @@
 id,nombre,precio,cantidad,unidad
 1,Harina,15.00,40,Kg
-2,Huevo,15.00,50,Piezas
+2,Huevo,15.00,30,Piezas
 3,Conchas de Chocolate,10.00,35,Piezas
 4,Leche,28.00,40,L
 5,Granos de Café,30.00,50,Kg
 6,Chocolate,20.00,30,Kg
+7,Concha de jamaica,15.0,45,Piezas
+8,Cuernito,14.0,60,Piezas
+9,Dona de chocolate,16.0,40,Piezas
+10,Dona de azúcar,14.0,35,Piezas
+11,Oreja,15.0,30,Piezas
+12,Besito,16.0,25,Piezas
+13,Rebanada de mantequilla,13.0,40,Piezas
+14,Ojo de buey,15.0,20,Piezas
+15,Polvorón de naranja,14.0,30,Piezas
+16,Gendarme,14.0,25,Piezas
+17,Cocol de anís,13.0,35,Piezas
+18,Mantecada,12.0,50,Piezas
+19,Muffin de arándano,22.0,24,Piezas
+20,Bolillo,4.5,150,Piezas
+21,Telera,4.5,120,Piezas
+22,Baguette,25.0,30,Piezas
+23,Pan de caja integral,45.0,15,Piezas
+24,Chilindrina,15.0,25,Piezas
+25,Pastel de tres leches chico,250.0,5,Piezas
+26,Pastel de chocolate mediano,380.0,4,Piezas
+27,Pay de limón,180.0,6,Piezas
+28,Gelatina de mosaico,25.0,30,Piezas
+29,Flan napolitano (rebanada),35.0,20,Piezas
+30,Galletas de mantequilla surtidas,60.0,500,g
+31,Galletas de avena,45.0,300,g
+32,Brownie de chocolate,28.0,18,Piezas
+33,Harina de trigo,24.0,10,kg
+34,Azúcar estándar,28.0,15,kg
+35,Masa madre,80.0,5,kg
+36,Levadura seca,15.0,500,g
+37,Mantequilla sin sal,45.0,250,g
+38,Leche entera,26.0,12,L
+39,Jarabe de tres leches,65.0,3,L
+40,Crema para batir,75.0,4,L
+41,Churros azúcar y canela,8.0,80,Piezas
+42,Empanada de cajeta,18.0,25,Piezas
+43,Empanada de piña,18.0,25,Piezas
+44,Volován de jamón y queso,22.0,20,Piezas
