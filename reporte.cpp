@@ -21,7 +21,7 @@ void reporte(const vector<Producto>& inv) {
         cout << left
         << setw(6)  << p.id
         << setw(22) << p.nombre
-        << "$" << setw(9) << fixed << setprecision(2) << p.precio
+        << "$" << setw(10) << fixed << setprecision(2) << p.precio
         << setw(10) << p.cantidad
         << setw(10) << p.unidad
         << "\n";

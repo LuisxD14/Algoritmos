@@ -1,5 +1,7 @@
 id,nombre,precio,cantidad,unidad
-1,Harina,10.00,50,kg
-2,Agua,20.00,30,L
-3,Refresco,15.00,20,piezas
-4,Chocolate,20.00,45,kg
+1,Harina,15.00,40,Kg
+2,Huevo,15.00,50,Piezas
+3,Conchas de Chocolate,10.00,35,Piezas
+4,Leche,28.00,40,L
+5,Granos de Café,30.00,50,Kg
+6,Chocolate,20.00,30,Kg

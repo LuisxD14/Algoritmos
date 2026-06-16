@@ -32,7 +32,7 @@ vector<Producto> cargarArchivo() {
 
     while (getline(f, linea)) {
         if (linea.empty()) continue;
-        stringstream ss(linea);
+        stringstream ss(linea); // Para convertir Numeros a texto
         Producto p;
         string campo;
 

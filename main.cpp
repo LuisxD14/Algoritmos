@@ -9,7 +9,7 @@ int main() {
         cout << "-------------------------------\n";
         cout << "  1. Alta            \n";
         cout << "  2. Baja           \n";
-        cout << "  3. Cambio        \n";
+        cout << "  3. Cambio (Modificar)        \n";
         cout << "  4. Reporte                  \n";
         cout << "  0. Salir                    \n";
         cout <<endl << "  Opción: ";
