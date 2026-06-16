@@ -10,7 +10,7 @@ cd ~/Algoritmos
 ```
 ### 2. Compilar y ejecutar
 ```
-g++ main.cpp manejoArchivo.cpp reporte.cpp crearBuscarId.cpp operacionesArchivo.cpp -o pan
+g++ main.cpp manejoArchivo.cpp reporte.cpp crearBuscarId.cpp operacionesArchivo.cpp entradaSalidaP.cpp funcionesAux.cpp -o pan
 ./pan
 ```
 
