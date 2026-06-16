@@ -31,6 +31,7 @@ vector<Producto> cargarArchivo();
 // Funciones crearBuscarId.cpp
 int buscarPorID(const vector<Producto>& inv, int id);
 int nuevoID(const vector<Producto>& inv);
+void buscarPorNombre(const vector<Producto>& inv);
 
 // Funciones operacionesArchivo.cpp
 void alta(vector<Producto>& inv);
@@ -43,4 +44,10 @@ void reporte(const vector<Producto>& inv);
 // Funciones entradaSalidaP
 void entrada(vector<Producto>& inv);
 void salida(vector<Producto>& inv);
+
+// Funciones Auxiliares.cpp
+string aMinusculas(const string& s);
+void imprimir(const string& texto, int ancho);
+string intAStr(int n);
+string doubleAStr(double val);
 #endif

@@ -13,6 +13,7 @@ int main() {
         cout << "  4. Reporte                  \n";
         cout << "  5. Entrada de Producto                  \n";
         cout << "  6. Salida de producto (Venta)                  \n";
+        cout << "  7. Buscar por nombre                  \n";
         cout << "  0. Salir                    \n";
         cout <<endl << "  Opción: ";
         cin >> opcion;
@@ -24,6 +25,7 @@ int main() {
             case 4: reporte(inventario);   break;
             case 5: entrada(inventario); break;
             case 6: salida(inventario); break;
+            case 7: buscarPorNombre(inventario); break;
             case 0: cout << "Finalizado"; break;
             default: cout << "Opción inválida\n";
         }
